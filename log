@@ -1,0 +1,9 @@
+user.email=fungigame@gmail.com
+user.name=h4dr05
+core.repositoryformatversion=0
+core.filemode=true
+core.bare=false
+core.logallrefupdates=true
+submodule.active=.
+remote.origin.url=https://github.com/h4dr05/mobile_development.git
+remote.origin.fetch=+refs/heads/*:refs/remotes/origin/*
